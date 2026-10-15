@@ -1,15 +1,14 @@
 # Simple Interest Calculator
 
-A simple script to calculate simple interest based on Principal, Rate of Interest, and Time Period.
+A simple bash script that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Formula
-Simple Interest is calculated using the formula:
-$$\text{Simple Interest} = \frac{P \times R \times T}{100}$$
+## Input:
+- **p**, principal amount
+- **t**, time period in years
+- **r**, annual rate of interest
 
-Where:
-- **P** = Principal amount
-- **R** = Annual interest rate (%)
-- **T** = Time period in years
+## Output:
+- **simple interest** = p * t * r / 100
 
-## How to Run
-1. Run the script using Python:
+## Author
+tanvee-darwatkar
