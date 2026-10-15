@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A script that calculates simple interest given principal, annual rate of interest and time period in years.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
 * p, principal amount
@@ -10,4 +10,4 @@ Input:
 Output:
 * simple interest = p*t*r
 
-Author: Tanvee Darwatkar
+© 2022 XYZ, Inc.
